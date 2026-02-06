@@ -39,7 +39,7 @@
     "href": "quarto.html#publishing-quarto-websites",
     "title": "How to make a Quarto website",
     "section": "Publishing Quarto websites",
-    "text": "Publishing Quarto websites\n\n\n\n\n\n\nTipResources!\n\n\n\n\nQuarto documentation on publishing\nWorkshop slides on publishing\n\n\n\nEasy:\n\nQuarto Pub: Free!; everything’s public; no custom domains\nPosit Connect Cloud: Free!; everything’s public; no custom domains\nPosit Connect: $$; public and private; custom domains\n\nMedium:\n\nGitHub Pages: Free!; everything’s public; custom domains\nNetlify: Free and paid; public and private; custom domains\n\nAdvanced:\n\nDIY: Set up a server yourself and do whatever you want\n\nWhat I use:\n\nQuarto Pub: example + example\nGitHub Pages: example + example + example\nDIY: example + example"
+    "text": "Publishing Quarto websites\n\n\n\n\n\n\nTipResources!\n\n\n\n\nQuarto documentation on publishing\nWorkshop slides on publishing\n\n\n\nEasy:\n\nQuarto Pub: Free!; everything’s public; no custom domains\nPosit Connect Cloud: Free!; everything’s public; no custom domains\nPosit Connect: $$; public and private; custom domains\n\nMedium:\n\nGitHub Pages: Free!; everything’s public; custom domains\nNetlify: Free and paid; public and private; custom domains\n\nNetlify Drop: easiest quickest way—just drag and drop your _site folder!\n\n\nAdvanced:\n\nDIY: Set up a server yourself and do whatever you want\n\nWhat I use:\n\nQuarto Pub: example + example\nGitHub Pages: example + example + example\nDIY: example + example"
   },
   {
     "objectID": "index.html",
