@@ -15,6 +15,10 @@ project:
 
 website:
   title: "PhD websites"
+
+  repo-url: "https://github.com/andrewheiss/2026-02-06_ays-dissertation-colloquium"
+  repo-actions: [source, issue]
+
   navbar:
     pinned: true
     left:
@@ -22,6 +26,9 @@ website:
         text: Home
       - href: quarto.qmd
         text: How to make a Quarto website
+    right:
+      - icon: github
+        href: "https://github.com/andrewheiss/2026-02-06_ays-dissertation-colloquium"
 
 
 author:
