@@ -1,7 +1,0 @@
-
-
-# Creating an internet presence as a PhD student
-
-[Andrew Heiss, PhD](https://www.andrewheiss.com)  
-Andrew Young School of Policy Studies  
-Georgia State University

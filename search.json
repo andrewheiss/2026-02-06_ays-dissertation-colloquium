@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "quarto.html",
+    "href": "quarto.html",
+    "title": "How to make a Quarto website",
+    "section": "",
+    "text": "Download an example site skeleton"
+  },
+  {
+    "objectID": "quarto.html#sample",
+    "href": "quarto.html#sample",
+    "title": "How to make a Quarto website",
+    "section": "",
+    "text": "Download an example site skeleton"
+  },
+  {
+    "objectID": "quarto.html#getting-started",
+    "href": "quarto.html#getting-started",
+    "title": "How to make a Quarto website",
+    "section": "Getting started",
+    "text": "Getting started\n\n\n\n\n\n\nTipResources!\n\n\n\n\nQuarto documentation\nWorkshop materials\n\n\n\nChoose one editor and follow the steps:\n\nRStudioPositronVS Code\n\n\n\nDownload and install RStudio: https://posit.co/downloads/\n\nMake sure RStudio is version 2022.07+.\n\nQuarto comes pre-installed.\n\nMake sure Quarto is version 1.8+.\n\n\n\n\n\nDownload and install Positron: https://positron.posit.co/download.html\nQuarto comes pre-installed.\n\nMake sure Quarto is version 1.8+.\n\n\n\n\n\nDownload and install VS Code: https://code.visualstudio.com/download/\nDownload and install Quarto: https://quarto.org/docs/get-started/\nInstall the following extensions:\n\nQuarto Extension: https://marketplace.visualstudio.com/items?itemName=quarto.quarto/\nJupyter Extension: https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter/"
+  },
+  {
+    "objectID": "quarto.html#working-with-quarto-markdown",
+    "href": "quarto.html#working-with-quarto-markdown",
+    "title": "How to make a Quarto website",
+    "section": "Working with Quarto Markdown",
+    "text": "Working with Quarto Markdown\n\n\n\n\n\n\nTipResources!\n\n\n\n\nMarkdown basics\nFigures\nTables\nArticle layout\nCitations\nWorkshop materials\n\n\n\nYou can use Quarto even if you never use any computational output! It’s fantastic for generating websites from Markdown, even if you don’t use R/Python/Stata/whatever.\nQuarto supports R, Python, Observable JS, and Julia natively. You can even make it support things like Stan or Stata (through R or through Python)."
+  },
+  {
+    "objectID": "quarto.html#configuring-quarto-websites",
+    "href": "quarto.html#configuring-quarto-websites",
+    "title": "How to make a Quarto website",
+    "section": "Configuring Quarto websites",
+    "text": "Configuring Quarto websites\n\n\n\n\n\n\nTipResources!\n\n\n\n\nQuarto documentation for creating a website\nWebsite navigation\nAbout pages\nCreating a blog\nWorkshop materials for creating basic websites\nWorkshop materials for advanced website features"
+  },
+  {
+    "objectID": "quarto.html#publishing-quarto-websites",
+    "href": "quarto.html#publishing-quarto-websites",
+    "title": "How to make a Quarto website",
+    "section": "Publishing Quarto websites",
+    "text": "Publishing Quarto websites\n\n\n\n\n\n\nTipResources!\n\n\n\n\nQuarto documentation on publishing\nWorkshop slides on publishing\n\n\n\nEasy:\n\nQuarto Pub: Free!; everything’s public; no custom domains\nPosit Connect Cloud: Free!; everything’s public; no custom domains\nPosit Connect: $$; public and private; custom domains\n\nMedium:\n\nGitHub Pages: Free!; everything’s public; custom domains\nNetlify: Free and paid; public and private; custom domains\n\nAdvanced:\n\nDIY: Set up a server yourself and do whatever you want\n\nWhat I use:\n\nQuarto Pub: example + example\nGitHub Pages: example + example + example\nDIY: example + example"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Creating an internet presence as a PhD student",
+    "section": "",
+    "text": "View all slides in new window   Download PDF of all slides"
+  },
+  {
+    "objectID": "index.html#slides",
+    "href": "index.html#slides",
+    "title": "Creating an internet presence as a PhD student",
+    "section": "",
+    "text": "View all slides in new window   Download PDF of all slides"
+  },
+  {
+    "objectID": "index.html#tell-people-you-exist",
+    "href": "index.html#tell-people-you-exist",
+    "title": "Creating an internet presence as a PhD student",
+    "section": "Tell people you exist",
+    "text": "Tell people you exist\n\nGoogle Scholar\nORCID\nInstitutional directory\nLinkedIn"
+  },
+  {
+    "objectID": "index.html#show-people-who-you-are",
+    "href": "index.html#show-people-who-you-are",
+    "title": "Creating an internet presence as a PhD student",
+    "section": "Show people who you are",
+    "text": "Show people who you are\nBuild your own website with one of these free services:\n\nQuarto\nGoogle Sites\nWordPress\n\nExample sites:\n\nme lol (Quarto + custom domain name)\nSuparna Chaudhry (Google Sites + custom domain name)\nJohn Holbein (Google Sites + default domain name)\nDevon Cantwell (Squarespace)\nJoannie Tremblay-Boire (Weebly)\nScott Cowley (WordPress)\n\nDomain names:\n\nBest registrar I’ve found: iwantmyname.com"
+  },
+  {
+    "objectID": "index.html#show-people-what-you-do",
+    "href": "index.html#show-people-what-you-do",
+    "title": "Creating an internet presence as a PhD student",
+    "section": "Show people what you do",
+    "text": "Show people what you do\n\nSocArXiv"
+  }
+]
