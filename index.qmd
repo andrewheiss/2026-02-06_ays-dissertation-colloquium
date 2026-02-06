@@ -1,0 +1,44 @@
+---
+title: "Creating an internet presence as a PhD student"
+date: 2026-02-06
+---
+
+## Slides
+
+<a class="btn btn-success" target="_blank" href="slides/slides.html">{{< fa arrow-up-right-from-square >}} &ensp;View all slides in new window</a> <a class="btn btn-success" target="_blank" href="slides/slides.pdf" role="button">{{< fa file-pdf >}} &ensp;Download PDF of all slides</a>
+
+<div class="ratio ratio-16x9">
+<iframe src="slides/slides.html"></iframe>
+</div>
+
+## Tell people you exist
+
+- [Google Scholar](https://scholar.google.com/)
+- [ORCID](https://orcid.org/)
+- [Institutional directory](https://aysps.gsu.edu/profile/andrew-heiss/)
+- [LinkedIn](https://www.linkedin.com/)
+
+## Show people who you are
+
+Build your own website with one of these free services:
+
+- [Quarto](https://quarto.org/)
+- [Google Sites](https://sites.google.com/)
+- [WordPress](https://wordpress.com/)
+
+Example sites:
+
+- [me lol](https://www.andrewheiss.com) (Quarto + custom domain name)
+- [Suparna Chaudhry](http://www.suparnachaudhry.com/) (Google Sites + custom domain name)
+- [John Holbein](https://sites.google.com/site/johnbholbein/) (Google Sites + default domain name)
+- [Devon Cantwell](https://www.devoncantwell.com/) (Squarespace)
+- [Joannie Tremblay-Boire](http://joannieboire.weebly.com/) (Weebly)
+- [Scott Cowley](http://www.scottcowley.com/) (WordPress)
+
+Domain names:
+
+- Best registrar I've found: [iwantmyname.com](https://iwantmyname.com/)
+
+## Show people what you do
+
+- [SocArXiv](https://socopen.org/)
